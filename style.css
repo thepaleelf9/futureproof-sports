@@ -23,9 +23,8 @@
     text-decoration: none;
 }
 
-
 .layer1{
-    background-image: url("/Images/wavy.svg");
+    background-image: url("/Images/wavy.svg");}
 
 .navbar a:hover {
     background-color: #0644a9;
