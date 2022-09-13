@@ -19,3 +19,14 @@ section{
 .layer1{
     background-image: url("/Images/wavy.svg");
 }
+
+.fixHead{
+    font-size: 54px;
+    margin: 0 auto;
+    text-align:center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    padding: 20px;
+    background-color: #034694;
+
+}
