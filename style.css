@@ -24,6 +24,10 @@
 	text-decoration: none;
 }
 
+.layer1 {
+	background-image: url("/Images/wavy.svg");
+}
+
 .navbar a:hover {
 	background-color: #0644a9;
 	color: white;
@@ -78,6 +82,16 @@ table th {
 	border: 2px solid black;
 	background-color: black;
 	color: white;
+}
+
+.fixHead {
+	font-size: 54px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Roboto Mono", monospace;
+	color: white;
+	padding: 20px;
+	background-color: #034694;
 }
 
 table td {
