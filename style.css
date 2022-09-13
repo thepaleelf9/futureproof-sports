@@ -1,3 +1,33 @@
+.header {
+    padding: 60px;
+    font: 20px Playfair Display;
+    text-align: center;
+    background-image: url "chelsea.jpg";
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    background-size: 1000px 300px;  
+    color: black;
+}
+.navbar {
+    background-color: #3380ff;
+    position: sticky;
+    position: -webkit-sticky;
+}
+
+.navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 25px;
+    font-family: Arial;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #0644a9;
+    color: white;
+}
+
 .spacer {
 	aspect-ratio: 900/600;
 	width: 100%;
