@@ -1,11 +1,15 @@
+h1 {
+	font-size:60px;
+	vertical-align: sub;
+}
 .header {
     padding: 60px;
     font: 20px Playfair Display;
     text-align: center;
-    background-image: url "chelsea.jpg";
+    background-image: url("./Images/stadium.jpg");
     background-repeat: no-repeat;
-    background-attachment: cover;
-    background-size: 1000px 300px;  
+    background-attachment: fixed;
+    background-size: 2000px 300px;  
     color: black;
 }
 .navbar {
