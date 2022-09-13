@@ -23,6 +23,10 @@
     text-decoration: none;
 }
 
+
+.layer1{
+    background-image: url("/Images/wavy.svg");
+
 .navbar a:hover {
     background-color: #0644a9;
     color: white;
@@ -71,6 +75,18 @@ table th {
 	color: white;
 }
 
+
+.fixHead{
+    font-size: 54px;
+    margin: 0 auto;
+    text-align:center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    padding: 20px;
+    background-color: #034694;
+
+}
+
 table td {
 	border: 1px solid rgb(148, 148, 148);
 	padding: 10px 20px;
@@ -78,4 +94,5 @@ table td {
 
 table img {
 	height: 100px;
-}
+  }
+
